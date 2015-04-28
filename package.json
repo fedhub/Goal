@@ -1,0 +1,25 @@
+{
+  "name": "Goal",
+  "version": "0.0.0",
+  "description": "First web services project",
+  "main": "server.js",
+  "dependencies": {
+    "http": "~0.0.0",
+    "util": "~0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shimonsw/Goal.git"
+  },
+  "author": "Shimon Swisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimonsw/Goal/issues"
+  },
+  "homepage": "https://github.com/shimonsw/Goal"
+}
